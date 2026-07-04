@@ -1,0 +1,10 @@
+venv/
+*.mp4
+*.pt
+*.pth
+__pycache__/
+*.pyc
+.env
+route_risk_db.json
+reports/
+checkpoints/
