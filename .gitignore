@@ -8,3 +8,5 @@ __pycache__/
 route_risk_db.json
 reports/
 checkpoints/
+frames/
+tracking_log.txt
